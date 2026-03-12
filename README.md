@@ -1,2 +1,2 @@
 # Food-Waste-Prediction-
-A normal ui which detects the food wastage
+A normal web which detects the food wastage from the previous data 
